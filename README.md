@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**orangese/orangese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ryan, a student at Millburn High School studying artificial intelligence and bioinformatics. Visit [my research portfolio](https://orangese.github.io/) for more information!
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 About My Coding 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ryan's Github Stats](https://github-readme-stats.vercel.app/api?username=orangese&show_icons=true&count_private=true&include_all_commits=true)
+
+### 📫 Contact Me
+
+* Work email: [ryanpark314@gmail.com](mailto:ryanpark314@gmail.com)
+* School email: [22parkr@millburn.org](mailto:22parkr@millburn.org)
+* LinkedIn: [Ryan Park @ MHS](https://www.linkedin.com/in/ryan-park-mhs/)
