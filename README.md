@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm Ryan, a student at Millburn High School studying artificial intelligence and bioinformatics. Visit [my research portfolio](https://orangese.github.io/) for more information!
+I'm Ryan, a student at Stanford studying artificial intelligence and bioinformatics. Visit [my research portfolio](https://orangese.github.io/) for more information!
 
 ### 👨🏻‍💻 About My Coding 
 
