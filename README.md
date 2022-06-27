@@ -9,5 +9,5 @@ I'm Ryan, a student at Millburn High School studying artificial intelligence and
 ### 📫 Contact Me
 
 * Work email: [ryanpark314@gmail.com](mailto:ryanpark314@gmail.com)
-* School email: [22parkr@millburn.org](mailto:22parkr@millburn.org)
-* LinkedIn: [Ryan Park @ MHS](https://www.linkedin.com/in/ryan-park-mhs/)
+* School email: [rypark@stanford.edu](mailto:rypark@stanford.edu)
+* LinkedIn: [Ryan Park @ Stanford](www.linkedin.com/in/ryan-park-stanford)
